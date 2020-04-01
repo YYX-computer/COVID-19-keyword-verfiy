@@ -1,7 +1,7 @@
 # -*- encoding:utf-8 -*-
 import requests as r
 import Tkinter as tk
-urls = ['http://www.sougo.com/']
+urls = []
 def get():
     requested_vals = []
     for i in urls:
