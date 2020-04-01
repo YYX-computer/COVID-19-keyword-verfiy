@@ -7,5 +7,5 @@ This code will tell you the keywords truth.
 
 Run this:
 ```
-python keyword_verify
+python keyword_verify.py
 ```
