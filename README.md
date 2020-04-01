@@ -9,3 +9,16 @@ Run this:
 ```
 python keyword_verify.py
 ```
+
+*Please add your trusted info-source:*
+
+*change the code:'keyword_verify'*
+
+*change:*
+```
+# -*- encoding:utf-8 -*-
+import requests as r
+import Tkinter as tk
+urls = []   #change this line,add the trust url in 'urls'!
+def get():
+```
