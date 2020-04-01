@@ -7,6 +7,7 @@ This code will tell you the keywords truth.
 
 Run this:
 ```
+sudo pip install -r requirements
 python keyword_verify.py
 ```
 
