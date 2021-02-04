@@ -1,6 +1,6 @@
 # COVID-19-keyword-verfiy
 
-In the COVID-19,we got a difficultly problem:the Info-padenmic.
+In the COVID-19,we got a headache:the Info-padenmic.
 
 Run this code to verify a keyword that you want to know the truth.
 
